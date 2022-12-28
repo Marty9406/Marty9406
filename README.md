@@ -2,5 +2,5 @@
 
 - ⚡ Successfully finished Engeto Python Academy
 
-- 🌱 Currently fell in love with HTML, CSS and JS
+- 🌱 Studying computer science at the VŠB Technical University of Ostrava
 
